@@ -27,5 +27,3 @@ services:
       - 'POSTGRES_USER=postgres'
       - 'POSTGRES_PASSWORD=postgres'
       - 'POSTGRES_HOST_AUTH_METHOD=trust'
-      - 'DOCKER_USERNAME:grifis96'
-      - 'DOCKER_ACCESS_TOKEN:b50231d7-3bee-4d94-b287-71a335bc0095'
